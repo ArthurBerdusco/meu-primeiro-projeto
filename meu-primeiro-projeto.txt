@@ -1,1 +1,3 @@
-		Testando o git com a turma B
+Testando o git com a turma B
+
+Tudo funcionando corretamente!
